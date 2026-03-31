@@ -1,6 +1,6 @@
-## Open Source Audit Project
+# Open Source Audit Project
 
-# Repository Name
+## Repository Name
 oss-audit-24BAI10580
 
 ## Student Details
